@@ -1,3 +1,4 @@
+![logo](https://github.com/meet-irfan/music-player/blob/main/muzykalnyy-instrument-5254.jpg)
 # Music-Player  🎵
 
 👉 Introduction
